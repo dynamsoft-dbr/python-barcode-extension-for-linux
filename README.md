@@ -39,7 +39,9 @@ The sample demonstrates how to make Python barcode reader extension on Ubuntu wi
 
 ![Python barcode extension](http://www.codepool.biz/wp-content/uploads/2015/12/python-barcode-extension.png)
 
+## Blog
+[How to Make Python Barcode Extension on Linux][2]
 
 [1]:http://labs.dynamsoft.com/linux-barcode-reader-overview.htm
-
+[2]:http://www.codepool.biz/linux-python-barcode-extension.html
 
